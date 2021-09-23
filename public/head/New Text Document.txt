@@ -1,0 +1,6 @@
+background: #0078D4;
+background: #75236C;
+background: #F8F8F8;
+background: #4E7FFF;
+مزون
+background: #4F60FF;

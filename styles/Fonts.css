@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'homa';
+    src: url("./fonts-b-yekan/IRBadrIranic.ttf");
+}
+
+
+@font-face {
+    font-family:"nazaninBold";
+    src: url("./fonts-b-yekan/IRNazaninBold.ttf")
+}
+@font-face {
+    font-family: "mahii";
+    src: url("./fonts-b-yekan/IRHoma.ttf");
+}
